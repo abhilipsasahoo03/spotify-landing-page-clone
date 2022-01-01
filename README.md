@@ -5,3 +5,6 @@ A simple, responsive Spotify login page clone which directs to Spotify's officia
 ![Login webpage clone](https://user-images.githubusercontent.com/80174214/147853111-1f69a46a-e98b-49ad-b808-b225dcd6fd00.png)
 ![Spotify's official sign-up/login page](https://user-images.githubusercontent.com/80174214/147853117-3dc2cd3a-066c-44bc-951b-2ff097481949.png)
 ![Spotify's official home page to download Spotify for various devices](https://user-images.githubusercontent.com/80174214/147853125-bbff8856-859a-49f1-9db2-14b2df8c201a.png)
+
+
+Link to the ![Spotify login page clone](https://clone-ify.000webhostapp.com/index.html)

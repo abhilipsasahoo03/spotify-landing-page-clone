@@ -1,5 +1,5 @@
-# spotify-login-page-clone
-A simple, responsive Spotify login page clone which directs to Spotify's official login/sign-up webpage and home page made using HTML, CSS and hosted by "000webhost".
+# spotify-landing-page-clone
+A simple, responsive Spotify landing page clone which directs to Spotify's official login/sign-up webpage and home page made using HTML, CSS and hosted by "000webhost".
 
 ## Desktop view
 ![Login webpage clone](https://user-images.githubusercontent.com/80174214/147853093-71acfc02-ebae-46e5-a64c-290300899d30.png)
@@ -8,6 +8,6 @@ A simple, responsive Spotify login page clone which directs to Spotify's officia
 ![Spotify's official home page to download Spotify for various devices](https://user-images.githubusercontent.com/80174214/147853125-bbff8856-859a-49f1-9db2-14b2df8c201a.png)
 
 ## Mobile view
-![Login webpage clone](https://user-images.githubusercontent.com/80174214/151664985-0b25eff3-793e-4cb4-94e1-448f7c2a1b0e.jpg)
+![Landing webpage clone](https://user-images.githubusercontent.com/80174214/151664985-0b25eff3-793e-4cb4-94e1-448f7c2a1b0e.jpg)
 
-Link to the [Spotify login page clone](https://clone-ify.000webhostapp.com/index.html)
+Link to the [Spotify landing page clone](https://clone-ify.000webhostapp.com/index.html)
